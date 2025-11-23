@@ -1,4 +1,4 @@
-Fecha_hora,V_liz,V_Isis,V_Ro
+Fecha_hora,Gama_Alta,Gama_Media,Gama_Baja
 10/10/25 7:00,68,74,72
 10/10/25 8:00,59,77,82
 10/10/25 9:00,61,136,63
@@ -352,3 +352,4 @@ Fecha_hora,V_liz,V_Isis,V_Ro
 10/31/25 21:00,74,146.75,91
 
 10/31/25 22:00,85,198,104
+
